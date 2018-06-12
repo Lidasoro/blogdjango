@@ -1,0 +1,6 @@
+*.pyc
+__pyscache__
+sitcenv
+db.sqlite3
+/static
+.DS_Store
